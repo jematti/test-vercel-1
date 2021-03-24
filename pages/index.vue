@@ -13,7 +13,7 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation
+          Documentationmmmmmmmmmmmmmmmmmmmmmmmmmmm
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
