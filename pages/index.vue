@@ -13,7 +13,7 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          D
+          boton 1
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
@@ -21,7 +21,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+          boton 2
         </a>
       </div>
     </div>
