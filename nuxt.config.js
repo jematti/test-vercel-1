@@ -15,24 +15,15 @@ export default {
     ]
   },
 
+  /*
+  ** Customize the progress-bar color
+  */
+  loading: { color: '#fff' },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
- // Global CSS: https://go.nuxtjs.dev/config-css
- css: [
-  '@/assets/css/bootstrap.min.css',
-  '@/assets/css/font-awesome.min.css',
-  '@/assets/css/animate.min.css',
-  '@/assets/css/lightbox.css',
-  '@/assets/css/main.css',
-  '@/assets/css/responsive.css'
-],
-js: [
- '@/assets/js/bosstrap.min.js',
- '@/assets/js/jquery.js',
- '@/assets/js/bootstrap.min.js',
- '@/assets/js/lightbox.min.js',
- '@/assets/js/wow.min.js',
- '@/assets/js/main.js',
-],
+
+  css: [
+  ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
