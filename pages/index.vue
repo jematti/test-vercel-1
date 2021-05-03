@@ -81,6 +81,8 @@ export default {
 /* .fondo{
     background-image: url('');
 } */
+
+/*Estilos de la Pagina Principal */
 .principal {
   margin: 0 auto;
   min-height: 100vh;
@@ -90,25 +92,18 @@ export default {
   text-align: center;
 
 }
-
+/* Estilos del titulo Principal*/
 .title {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 50px;
   color: #ffffff;
   letter-spacing: 1px;
 }
 
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #ffffff;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
+/* Estilos de Animacion para los iconos de Los Botones*/
 .banner_img{
     padding-top: 35px;
     animation: movimiento 2.5s ;
@@ -125,7 +120,25 @@ export default {
   padding-top: 35px;
 }
 
+/*Estilos de los Botones de la Pagina Principal */
 
+
+.button--green {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #3b8070;
+  color: #000000;
+  text-decoration: none;
+  padding: 5px 15px;
+  background-color: #fff;
+}
+
+.button--green:hover {
+  color: #fff;
+  background-color: #3b8070;
+}
+
+/*Animacion de la variable Movimiento aplicado en el banner principal */
 @keyframes movimiento{
     0%{
         transform: translateY(30px);

@@ -16,8 +16,7 @@
 
         <b-nav-item-dropdown text="Conócenos">
           <b-dropdown-item to="/conocenos/nosotros">Nosotros</b-dropdown-item>
-          <b-dropdown-item to="/conocenos/vision">Visión</b-dropdown-item>
-          <b-dropdown-item to="/conocenos/mision">Mision</b-dropdown-item>
+          <b-dropdown-item to="/conocenos/mision-vision">Mision - Visión</b-dropdown-item>
           <b-dropdown-item to="/conocenos/equipo">Equipo</b-dropdown-item>
         </b-nav-item-dropdown>
 
@@ -43,6 +42,7 @@ export default {
 }
 </script>
 <style >
+/*Estilos en la Cabecera de La PAGINA */
 .cabecera {
   font-weight: normal;
   font-size: 15px;
