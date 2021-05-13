@@ -31,6 +31,59 @@
        </b-card>
      </b-col>
 
+      <b-col md="6">
+       <b-card
+       title="Title"
+       img-src="../../assets/perfil-mujer.jpg"
+       img-alt="Image"
+       img-top
+       tag="article"
+       style="max-width:20rem"
+       class="perfil"
+       >
+         <b-card-text>
+           Lorem ipsum dolor sit amet consectetur adipisicing elit.
+           Ipsum veritatis ab iure facere ea sapiente explicabo officia eius, ad debitis,
+           culpa minus ex modi, ut nostrum doloribus rerum quidem officiis?
+         </b-card-text>
+       </b-card>
+     </b-col>
+      <b-col md="6">
+       <b-card
+       title="Title"
+       img-src="../../assets/perfil-mujer.jpg"
+       img-alt="Image"
+       img-top
+       tag="article"
+       style="max-width:20rem"
+       class="perfil"
+       >
+         <b-card-text>
+           Lorem ipsum dolor sit amet consectetur adipisicing elit.
+           Ipsum veritatis ab iure facere ea sapiente explicabo officia eius, ad debitis,
+           culpa minus ex modi, ut nostrum doloribus rerum quidem officiis?
+         </b-card-text>
+       </b-card>
+     </b-col>
+      <b-col md="6">
+       <b-card
+       title="Title"
+       img-src="../../assets/perfil-mujer.jpg"
+       img-alt="Image"
+       img-top
+       tag="article"
+       style="max-width:20rem"
+       class="perfil"
+       >
+         <b-card-text>
+           Lorem ipsum dolor sit amet consectetur adipisicing elit.
+           Ipsum veritatis ab iure facere ea sapiente explicabo officia eius, ad debitis,
+           culpa minus ex modi, ut nostrum doloribus rerum quidem officiis?
+         </b-card-text>
+       </b-card>
+     </b-col>
+
+
     <b-col md="6">
        <b-card
        title="Title"
